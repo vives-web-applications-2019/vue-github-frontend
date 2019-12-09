@@ -19,7 +19,7 @@ git pull git@github.com:vives-web-applications-2019/vue-github-frontend.git mast
 3. Fetch your user profile from the GitHub API
   * Name
   * Bio
-  * # Public Repos
+  * Number of public repos
 4. List your repositories form the GitHub API
   * Full name
   * Description
