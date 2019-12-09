@@ -24,6 +24,7 @@ git pull git@github.com:vives-web-applications-2019/vue-github-frontend.git mast
   * Full name
   * Description
   * Languages used in project
+5. Upload your app to Netlify
 
 ## Report
 
