@@ -14,7 +14,16 @@ git pull git@github.com:vives-web-applications-2019/vue-github-frontend.git mast
 
 ## Goal
 
-
+1. Create an Vue application using the Vue CLI
+2. Use Materialize CSS
+3. Fetch your user profile from the GitHub API
+  * Name
+  * Bio
+  * # Public Repos
+4. List your repositories form the GitHub API
+  * Full name
+  * Description
+  * Languages used in project
 
 ## Report
 
